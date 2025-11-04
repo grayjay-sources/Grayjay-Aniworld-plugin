@@ -1,8 +1,21 @@
 # Universal Streaming Framework Plugin for GrayJay
 
+> **⚠️ NOTICE: This repository is now archived.**  
+> **Please use the [S.to-like Framework Generator](https://grayjay-sources.github.io/grayjay-source-sto-like/) to create custom plugins for Aniworld, S.to, or any other compatible German streaming site!**
+> 
+> The generator provides:
+> - ✨ Easy custom plugin creation via web interface
+> - 📱 QR code generation for instant mobile setup
+> - 🎯 Support for any S.to/Aniworld-compatible site
+> - 💾 Downloadable config files
+> 
+> **[Visit Generator →](https://grayjay-sources.github.io/grayjay-source-sto-like/)**
+
+---
+
 This plugin provides support for **Aniworld.to** - a German anime streaming platform.
 
-For the S.to TV series plugin, see: [grayjay-source-sto](https://github.com/Bluscream/grayjay-source-sto)
+For the S.to TV series plugin, see: [grayjay-source-sto](https://github.com/grayjay-sources/grayjay-source-sto)
 
 ## Architecture
 
